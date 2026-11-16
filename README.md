@@ -46,9 +46,11 @@ En cada apartado debes mostrar una **captura de pantalla** de lo realizado y añ
          -1º DAW
          -2º DAW
 3. **Cursos.** Crea los siguientes cursos:
-   1. **Test**, dentro de la categoría *Miscelánea*.
-   2. **Comenzando con Moodle by \[Tu nombre\]**. Debe ser una **copia** del curso que aparece por defecto, *Starting with Moodle*, con todas sus secciones y recursos. Puedes usar la opción *Copiar curso* o hacer una copia de seguridad y restaurarla con otro nombre.
-
+   1.**Aplicaciones Web** , dentro de la categoría 2º SMR
+   2. **Proyecto Intermodular** , dentro de la categoría 2º SMR
+   3. **Test**, dentro de la categoría *Miscelánea*.
+   4. **Comenzando con Moodle by \[Tu nombre\]**. dentro de la categoría *Miscelánea*. Debe ser una **copia** del curso que aparece por defecto, *Starting with Moodle*, con todas sus secciones y recursos. Puedes usar la opción *Copiar curso* o hacer una copia de seguridad y restaurarla con otro nombre.
+   
 A partir de ahora trabajaremos con el curso **Comenzando con Moodle by \[Tu nombre\]**.
 
 4. **Secciones.** Cambia el nombre de las secciones:
