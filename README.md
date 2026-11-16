@@ -38,12 +38,13 @@ En cada apartado debes mostrar una **captura de pantalla** de lo realizado y añ
 1. **Alta en MoodleCloud.** Regístrate en MoodleCloud con el plan de prueba (*Start Trial*) y elige un **nombre de sitio propio** (por ejemplo, `tunombre-practica`). Anota la fecha de alta y la fecha en que expira la prueba. Indica en un comentario la **versión de Moodle** que ejecuta tu sitio (*Administración del sitio > General > Notificaciones*).
 2. **Categorías.** Crea la siguiente estructura en *Administración del sitio > Cursos > Gestionar cursos y categorías*:
    - MISCELÁNEA
-   - IDIOMAS
-     - Inglés
-     - Francés
    - FP
-     - SMR
+     - SMR:
+        - 1º SMR
+        - 2º SMR
      - DAW
+         -1º DAW
+         -2º DAW
 3. **Cursos.** Crea los siguientes cursos:
    1. **Test**, dentro de la categoría *Miscelánea*.
    2. **Comenzando con Moodle by \[Tu nombre\]**. Debe ser una **copia** del curso que aparece por defecto, *Starting with Moodle*, con todas sus secciones y recursos. Puedes usar la opción *Copiar curso* o hacer una copia de seguridad y restaurarla con otro nombre.
