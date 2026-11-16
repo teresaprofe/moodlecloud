@@ -121,27 +121,5 @@ La entrega se realizará en **un único archivo PDF** que contenga:
 - Cada apartado con su enunciado, su captura de pantalla y tu explicación.
 - La conclusión y valoración personal.
 
-## Criterios de evaluación sugeridos
 
-| Criterio | Peso |
-| --- | --- |
-| Bloque 1: preparación del curso (alta, categorías, cursos, actividades) | 35 % |
-| Bloque 2: apariencia | 10 % |
-| Bloque 3: matriculación y carga masiva | 20 % |
-| Bloque 4: plugins | 10 % |
-| Bloque 5: copia de seguridad y restauración | 10 % |
-| Presentación, capturas y comentarios | 10 % |
-| Conclusión y valoración personal | 5 % |
 
-## Resumen de cambios respecto a la versión anterior
-
-| Versión anterior | Versión actualizada |
-| --- | --- |
-| La prueba dura "1 mes" | La prueba dura 28 días, sin tarjeta de crédito, y no existe plan gratuito permanente |
-| "Introduce un dominio propio" | En la prueba se elige un nombre de sitio (subdominio de moodlecloud.com); el dominio propio es solo de pago |
-| "Investiga un plugin nuevo e instálalo" | No se pueden instalar plugins en MoodleCloud; el bloque se reorienta a explorar, configurar e investigar plugins |
-| "¿Puedes añadir otro tema?" | Se razona por qué no es posible y se personaliza el tema existente |
-| La tarea del enunciado se llama "Tarea 4.1" | Se unifica como "Tarea 5.1" |
-| Sin mención al límite de usuarios | Se advierte del límite de 50 usuarios en la carga masiva |
-| Sin advertencias sobre la caducidad | Se recomienda copia de seguridad antes de que expire la prueba |
-| Sin criterios de evaluación | Se añade una propuesta de rúbrica |
