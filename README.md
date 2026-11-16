@@ -1,4 +1,4 @@
-# Tarea 3.1. MoodleCloud (versión actualizada)
+# Tarea 3.1. MoodleCloud
 
 ## Introducción
 
