@@ -65,23 +65,8 @@ A partir de ahora trabajaremos con el curso **Comenzando con Moodle by \[Tu nomb
 8. **Cuestionario.** Cambia el nombre del cuestionario *Quiz* por **Test**. Modifica las 3 preguntas existentes y añade 2 más. Todas deben estar relacionadas con Moodle.
 9. **Área de texto y medios.** Cambia el enlace del vídeo por uno **en español**, modifica el texto y añade algún comentario tuyo.
 10. **Foro.** Cambia el nombre del *Forum* a **Foro** y añade tres temas de discusión: *Dudas*, *Sugerencias* y *Avisos*.
-11. **Videoconferencia.** Cambia el nombre del recurso *This is a video conferencing room* a **Sala de conferencias**. Entra en la sala (el navegador te pedirá permiso para usar micrófono y cámara) y describe qué ocurre y qué opciones ofrece.
-12. **Tarea.** Añade una tarea llamada **Tarea 5.1. MoodleCloud**, como si fuera esta misma tarea:
-    - Adjunta un archivo PDF con el enunciado.
-    - En *Tipos de archivo aceptados* permite **solo PDF**.
-    - Calificación: tipo *Puntuación*, máximo **10**.
-13. **Nuevo recurso o actividad.** Añade uno de los disponibles en el selector *Añadir una actividad o un recurso* que **no se haya usado antes** (por ejemplo, Glosario, Wiki, Lección, Consulta, Taller, H5P…) y explica con tus palabras para qué sirve y en qué situación docente lo usarías.
 
-## Bloque 2: Apariencia
-
-Entra en *Administración del sitio > Apariencia > Temas*.
-
-1. ¿Cómo se llama el tema que está usando tu Moodle?
-2. ¿Puedes instalar otro tema de terceros? Razona la respuesta teniendo en cuenta las limitaciones de MoodleCloud indicadas arriba.
-3. Personaliza el tema actual con las opciones que permita MoodleCloud: cambia al menos el **logotipo** o el **color de marca**, y muestra el antes y el después.
-4. Para la siguiente práctica, investiga qué temas existen en el directorio oficial de Moodle y cuáles serían útiles en un centro educativo.
-
-## Bloque 3: Matriculación
+## Bloque 2: Matriculación
 
 Una vez preparado el curso, matricula al alumnado.
 
@@ -93,16 +78,16 @@ Una vez preparado el curso, matricula al alumnado.
 3. Realiza una **carga masiva** de usuarios desde el archivo CSV proporcionado, en *Administración del sitio > Usuarios > Subir usuarios*. Comprueba antes que el archivo está en codificación **UTF-8** y que el número total de usuarios no supera el límite de tu plan (50). Muestra la pantalla de previsualización y el resultado.
 4. Una vez cargados, **matricula a los 10 primeros usuarios** en tu curso, y muestra la lista de participantes.
 
-## Bloque 4: Plugins
+## Bloque 3: Apariencia
 
-En MoodleCloud **no es posible instalar plugins de terceros**, por lo que este bloque se centra en conocer los que ya incluye el sitio.
+Entra en *Administración del sitio > Apariencia > Temas*.
 
-1. En *Administración del sitio > Extensiones > Vista general de plugins*, muestra los plugins instalados por defecto.
-2. Localiza un plugin de tipo *Actividad* y otro de tipo *Bloque*, y describe para qué sirve cada uno.
-3. Activa, desactiva o configura uno de los plugins preinstalados (por ejemplo, desde *Extensiones > Módulos de actividad > Gestionar actividades*) y muestra el efecto en el curso.
-4. Investiga en el directorio oficial de plugins (moodle.org/plugins) uno que te parezca interesante para un centro educativo. Explica qué hace y por qué **no** podrías instalarlo en MoodleCloud. ¿En qué tipo de instalación de Moodle sí podrías hacerlo?
+1. ¿Cómo se llama el tema que está usando tu Moodle?
+2. ¿Puedes instalar otro tema de terceros? Razona la respuesta teniendo en cuenta las limitaciones de MoodleCloud indicadas arriba.
+3. Personaliza el tema actual con las opciones que permita MoodleCloud: cambia al menos el **logotipo** o el **color de marca**, y muestra el antes y el después.
+4. Para la siguiente práctica, investiga qué temas existen en el directorio oficial de Moodle y cuáles serían útiles en un centro educativo.
 
-## Bloque 5: Copia de seguridad
+## Bloque 4: Copia de seguridad
 
 1. Realiza una **copia de seguridad** de tu curso (desde el curso, *Más > Reutilización de curso > Copia de seguridad*). Descarga el fichero `.mbz`, súbelo a tu unidad de almacenamiento (Drive) y compártelo con tu compañero/a de la derecha. Al hacer la copia, desmarca la opción de incluir datos de usuarios si no es necesaria.
 2. **Restaura** el curso de tu compañero/a en tu Moodle. Comprueba que se han cargado todos los elementos (secciones, libro, test, foro, tarea…) y muestra el resultado.
